@@ -1,3 +1,3 @@
-def title(text):
+def upper(text):
     """Функция делает все буквы заглавными"""
-    return text.title()
+    return text.upper()

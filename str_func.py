@@ -1,8 +1,7 @@
 def upper(text):
+  """Функция делает все буквы заглавными"""
     return text.upper()
 
 
-
 def title(text):
-    """Функция делает заглавными первые буквы каждого слова"""
-    return text.title()
+    return text.upper()
